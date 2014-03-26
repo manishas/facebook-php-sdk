@@ -79,8 +79,8 @@ $user = $facebook->getUser();
 [examples]: /examples/example.php
 [API]: http://developers.facebook.com/docs/api
 
-Tests
------
+Tests Introduction
+------------------
 
 In order to keep us nimble and allow us to bring you new functionality, without
 compromising on stability, we have ensured full test coverage of the SDK.
